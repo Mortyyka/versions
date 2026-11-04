@@ -1,15 +1,15 @@
 {
-  "version": "0.1.2",
-  "notes": "Customizable dashboard with provider focus cards, Discord + voice servers, bulk import/export (incl. Cloudflare plan test sites), gentler probing (no false packet loss), installers now private.",
-  "pub_date": "2026-11-04T21:49:27Z",
+  "version": "0.1.3",
+  "notes": "WireGuard path comparison: add tunnels in Settings and compare Direct vs each location (ping, TCP, TTFB, traceroute) without changing your network. Clearer update errors.",
+  "pub_date": "2026-11-04T22:18:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjBtR29BWVlBL05Ud21qWFdweHMyWFdGN3Q2Vjk5YWcxSVlpYzUwckFwOG1BK2FrYWI5V0R1YmFKOTRtWDNPV0tMK1AwNXJHMTRQZHpmdndLMkp5WlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI4OTU5CWZpbGU6TmV0UHVsc2VfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yClpEQ3o2RHhLM25pUmJNUjQwd1MyK0EydTRNWEUxYVZLZTlXOGdXTUFJU0dQaXQwaWRVWXNyTDcxd1ZZb3JLb25tMnpxdnd0Uk1Bczlpa0FLUjlpakJBPT0K",
-      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711061122"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjN0Vk03SFZnVmVhS1JSbmxQd21ZeVdESjZoeU9zalVEQUs1YmlDWVZHTS9HRGlHMDBJYVg1WW9lYU1mZCt0eGU5c01lSWs0SWRMN3hDM0tJeVJCUndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMwNzI2CWZpbGU6TmV0UHVsc2VfMC4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zCjNLWndiOVJubDRBeUwyN1lBMjhia0JuNFRGSHJXVEVsSzVjaUY2aE9rREtzVG51dWR2KzhpRXl5dzRrdFc0bkN3TkxUcUwxeE5tcFkyeW5UQmJxc0NnPT0K",
+      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711142475"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjBtR29BWVlBL05Ud21qWFdweHMyWFdGN3Q2Vjk5YWcxSVlpYzUwckFwOG1BK2FrYWI5V0R1YmFKOTRtWDNPV0tMK1AwNXJHMTRQZHpmdndLMkp5WlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI4OTU5CWZpbGU6TmV0UHVsc2VfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yClpEQ3o2RHhLM25pUmJNUjQwd1MyK0EydTRNWEUxYVZLZTlXOGdXTUFJU0dQaXQwaWRVWXNyTDcxd1ZZb3JLb25tMnpxdnd0Uk1Bczlpa0FLUjlpakJBPT0K",
-      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711061122"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjN0Vk03SFZnVmVhS1JSbmxQd21ZeVdESjZoeU9zalVEQUs1YmlDWVZHTS9HRGlHMDBJYVg1WW9lYU1mZCt0eGU5c01lSWs0SWRMN3hDM0tJeVJCUndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMwNzI2CWZpbGU6TmV0UHVsc2VfMC4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zCjNLWndiOVJubDRBeUwyN1lBMjhia0JuNFRGSHJXVEVsSzVjaUY2aE9rREtzVG51dWR2KzhpRXl5dzRrdFc0bkN3TkxUcUwxeE5tcFkyeW5UQmJxc0NnPT0K",
+      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711142475"
     }
   }
 }
