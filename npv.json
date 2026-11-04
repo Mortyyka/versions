@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "notes": "Discord and Discord voice server targets",
-  "pub_date": "2026-11-04T20:30:13Z",
+  "version": "0.1.2",
+  "notes": "Customizable dashboard with provider focus cards, Discord + voice servers, bulk import/export (incl. Cloudflare plan test sites), gentler probing (no false packet loss), installers now private.",
+  "pub_date": "2026-11-04T21:49:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlUR1RaWG1LVVlmMjl4RmowbXlSZFRrdkZGbVUxUGJtSlBOZ2NWU2Mrcks0L1V3QUxwM1g3ZTFYZTczOXJSZ1ROekxJL1dRVllCMjVidXZmb2daY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI0MjA0CWZpbGU6TmV0UHVsc2VfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmxBQkxyTXQrWVJsSEhLdzRDM014RkozN1JkM3JueG40SUxCK1lsUk95RHlCRFBWTG5sTzByQXBxMmI4aEFMM0VSekZPSnJ1TjYzQUhPbkJXZ2QzWENnPT0K",
-      "url": "https://github.com/Mortyyka/versions/releases/download/netpulse-v0.1.1/NetPulse_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjBtR29BWVlBL05Ud21qWFdweHMyWFdGN3Q2Vjk5YWcxSVlpYzUwckFwOG1BK2FrYWI5V0R1YmFKOTRtWDNPV0tMK1AwNXJHMTRQZHpmdndLMkp5WlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI4OTU5CWZpbGU6TmV0UHVsc2VfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yClpEQ3o2RHhLM25pUmJNUjQwd1MyK0EydTRNWEUxYVZLZTlXOGdXTUFJU0dQaXQwaWRVWXNyTDcxd1ZZb3JLb25tMnpxdnd0Uk1Bczlpa0FLUjlpakJBPT0K",
+      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711061122"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlUR1RaWG1LVVlmMjl4RmowbXlSZFRrdkZGbVUxUGJtSlBOZ2NWU2Mrcks0L1V3QUxwM1g3ZTFYZTczOXJSZ1ROekxJL1dRVllCMjVidXZmb2daY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI0MjA0CWZpbGU6TmV0UHVsc2VfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmxBQkxyTXQrWVJsSEhLdzRDM014RkozN1JkM3JueG40SUxCK1lsUk95RHlCRFBWTG5sTzByQXBxMmI4aEFMM0VSekZPSnJ1TjYzQUhPbkJXZ2QzWENnPT0K",
-      "url": "https://github.com/Mortyyka/versions/releases/download/netpulse-v0.1.1/NetPulse_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjBtR29BWVlBL05Ud21qWFdweHMyWFdGN3Q2Vjk5YWcxSVlpYzUwckFwOG1BK2FrYWI5V0R1YmFKOTRtWDNPV0tMK1AwNXJHMTRQZHpmdndLMkp5WlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI4OTU5CWZpbGU6TmV0UHVsc2VfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yClpEQ3o2RHhLM25pUmJNUjQwd1MyK0EydTRNWEUxYVZLZTlXOGdXTUFJU0dQaXQwaWRVWXNyTDcxd1ZZb3JLb25tMnpxdnd0Uk1Bczlpa0FLUjlpakJBPT0K",
+      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711061122"
     }
   }
 }
