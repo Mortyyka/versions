@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "Discord and Discord voice server targets",
+  "pub_date": "2026-11-04T20:30:13Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlUR1RaWG1LVVlmMjl4RmowbXlSZFRrdkZGbVUxUGJtSlBOZ2NWU2Mrcks0L1V3QUxwM1g3ZTFYZTczOXJSZ1ROekxJL1dRVllCMjVidXZmb2daY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI0MjA0CWZpbGU6TmV0UHVsc2VfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmxBQkxyTXQrWVJsSEhLdzRDM014RkozN1JkM3JueG40SUxCK1lsUk95RHlCRFBWTG5sTzByQXBxMmI4aEFMM0VSekZPSnJ1TjYzQUhPbkJXZ2QzWENnPT0K",
+      "url": "https://github.com/Mortyyka/versions/releases/download/netpulse-v0.1.1/NetPulse_0.1.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlUR1RaWG1LVVlmMjl4RmowbXlSZFRrdkZGbVUxUGJtSlBOZ2NWU2Mrcks0L1V3QUxwM1g3ZTFYZTczOXJSZ1ROekxJL1dRVllCMjVidXZmb2daY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI0MjA0CWZpbGU6TmV0UHVsc2VfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmxBQkxyTXQrWVJsSEhLdzRDM014RkozN1JkM3JueG40SUxCK1lsUk95RHlCRFBWTG5sTzByQXBxMmI4aEFMM0VSekZPSnJ1TjYzQUhPbkJXZ2QzWENnPT0K",
+      "url": "https://github.com/Mortyyka/versions/releases/download/netpulse-v0.1.1/NetPulse_0.1.1_x64-setup.exe"
+    }
+  }
+}
