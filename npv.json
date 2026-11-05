@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.7",
-    "notes":  "Update check fix, tray double-click, new download token",
-    "pub_date":  "2026-11-05T14:18:49Z",
+    "version":  "0.1.8",
+    "notes":  "Games page: game category, Wuthering Waves, detect from running game",
+    "pub_date":  "2026-11-05T18:04:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnpvTTNFWGNGN3lyb2NnVzFqVS9BYzE3STNlcmpvdGs5STYranhpOXZpM210TUptM2V5eWdFcTdhQmtsUXVpaUVrMGpZWWltUURRcHRldk15OEd1OVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg4MzIxCWZpbGU6TmV0UHVsc2VfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43Ci81Vkp5TnlmU1c5bEgrdjBtSzZWSmlsRjRVWkFodlVWSmpkVEQ1K200bE5SVmk3dWVyTjdlcU45QlQrTWtLMWRORDVTK2dWSXZNTmxNUjFkSzBSQ0NRPT0K",
-                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713657152"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjRNdktya093bkNKL2tJUXV3cGNqR2VUdml5VVA4aDc0QVdzU1dabWUzSkNYVkZobEVscVdsejh4aVF1MTZSSmwzbVN1UWdyN0loM3dSaktJazdJSVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxODg4CWZpbGU6TmV0UHVsc2VfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44Cjg1SnVrSWZPRjgyWUtiSEZJbkdWbFpjYmgzaDhOSlFLMUlPcTVnWjlyUVhRNW9wODlReHE0YWZNTGllYTNUQTRmbmQwbmY0M2FjK0FVTkNUOWNxOER3PT0K",
+                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/714314990"
                                          },
                       "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnpvTTNFWGNGN3lyb2NnVzFqVS9BYzE3STNlcmpvdGs5STYranhpOXZpM210TUptM2V5eWdFcTdhQmtsUXVpaUVrMGpZWWltUURRcHRldk15OEd1OVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg4MzIxCWZpbGU6TmV0UHVsc2VfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43Ci81Vkp5TnlmU1c5bEgrdjBtSzZWSmlsRjRVWkFodlVWSmpkVEQ1K200bE5SVmk3dWVyTjdlcU45QlQrTWtLMWRORDVTK2dWSXZNTmxNUjFkSzBSQ0NRPT0K",
-                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713657152"
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjRNdktya093bkNKL2tJUXV3cGNqR2VUdml5VVA4aDc0QVdzU1dabWUzSkNYVkZobEVscVdsejh4aVF1MTZSSmwzbVN1UWdyN0loM3dSaktJazdJSVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxODg4CWZpbGU6TmV0UHVsc2VfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44Cjg1SnVrSWZPRjgyWUtiSEZJbkdWbFpjYmgzaDhOSlFLMUlPcTVnWjlyUVhRNW9wODlReHE0YWZNTGllYTNUQTRmbmQwbmY0M2FjK0FVTkNUOWNxOER3PT0K",
+                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/714314990"
                                               }
                   }
 }
