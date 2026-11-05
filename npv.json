@@ -1,15 +1,15 @@
 {
-  "version": "0.1.5",
-  "notes": "NetPulse v0.1.5\n\n- Fix tray/dashboard freezes and empty windows caused by WebView2 creation in UI callbacks.\n- Serialize window transitions and prevent stale popup focus retries.\n- Use the last five minutes for current health, matching tray and alerts.\n- Preserve historical ICMP/TCP probe failures with clear time-range labels.",
-  "pub_date": "2026-11-04T23:06:09Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjZma1BqY1drUXlGZFkxb200MStwaEZyT1JzaTU5S0xNU2VUYllUUjhJTnNIY0ZzVEpNWVB0ZUdWc0hVWmNHNURBN1RUVEVPSjk0RTNCdVJhZnFQZHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMzNTYyCWZpbGU6TmV0UHVsc2VfMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41Ckd4QUoreXFOelEvanRSRHJuOXh2UCtYd2JBMjBYV21aMWhuVWxhL1E3MU9JemNxZXg0dHBmZGYxL1FFRG92Z2F5aUFPcFRuYlk2ZzJ4TEE3QWp6bkRBPT0K",
-      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711261257"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjZma1BqY1drUXlGZFkxb200MStwaEZyT1JzaTU5S0xNU2VUYllUUjhJTnNIY0ZzVEpNWVB0ZUdWc0hVWmNHNURBN1RUVEVPSjk0RTNCdVJhZnFQZHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMzNTYyCWZpbGU6TmV0UHVsc2VfMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41Ckd4QUoreXFOelEvanRSRHJuOXh2UCtYd2JBMjBYV21aMWhuVWxhL1E3MU9JemNxZXg0dHBmZGYxL1FFRG92Z2F5aUFPcFRuYlk2ZzJ4TEE3QWp6bkRBPT0K",
-      "url": "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/711261257"
-    }
-  }
+    "version":  "0.1.6",
+    "notes":  "Target history, chart tooltips, tray popup fix",
+    "pub_date":  "2026-11-05T14:10:10Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlEWVNHZHp0cEdOWFR6Tjcrck1WYzVGbytNK0FFMm1nMEhGNjdtcEVxdngzZyszbDA0bjQ1cE1UUnNUcVQzcVBna0hOa2JrQmNsQ1RRYjVYWG1yUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg3ODAyCWZpbGU6TmV0UHVsc2VfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjJKa3NjVTlodjZNTGpjVTQxUEZNb2tKVFovbXlLQXduVXRXazZhSWh5OEVnbnpZd2JFeTR3TS9Gd0hmbkRJa29LOWJWRnduRjVrRXFUcU1DMDJEL0RnPT0K",
+                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713631599"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlEWVNHZHp0cEdOWFR6Tjcrck1WYzVGbytNK0FFMm1nMEhGNjdtcEVxdngzZyszbDA0bjQ1cE1UUnNUcVQzcVBna0hOa2JrQmNsQ1RRYjVYWG1yUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg3ODAyCWZpbGU6TmV0UHVsc2VfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjJKa3NjVTlodjZNTGpjVTQxUEZNb2tKVFovbXlLQXduVXRXazZhSWh5OEVnbnpZd2JFeTR3TS9Gd0hmbkRJa29LOWJWRnduRjVrRXFUcU1DMDJEL0RnPT0K",
+                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713631599"
+                                              }
+                  }
 }
