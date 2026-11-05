@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.6",
-    "notes":  "Target history, chart tooltips, tray popup fix",
-    "pub_date":  "2026-11-05T14:10:10Z",
+    "version":  "0.1.7",
+    "notes":  "Update check fix, tray double-click, new download token",
+    "pub_date":  "2026-11-05T14:18:49Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlEWVNHZHp0cEdOWFR6Tjcrck1WYzVGbytNK0FFMm1nMEhGNjdtcEVxdngzZyszbDA0bjQ1cE1UUnNUcVQzcVBna0hOa2JrQmNsQ1RRYjVYWG1yUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg3ODAyCWZpbGU6TmV0UHVsc2VfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjJKa3NjVTlodjZNTGpjVTQxUEZNb2tKVFovbXlLQXduVXRXazZhSWh5OEVnbnpZd2JFeTR3TS9Gd0hmbkRJa29LOWJWRnduRjVrRXFUcU1DMDJEL0RnPT0K",
-                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713631599"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnpvTTNFWGNGN3lyb2NnVzFqVS9BYzE3STNlcmpvdGs5STYranhpOXZpM210TUptM2V5eWdFcTdhQmtsUXVpaUVrMGpZWWltUURRcHRldk15OEd1OVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg4MzIxCWZpbGU6TmV0UHVsc2VfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43Ci81Vkp5TnlmU1c5bEgrdjBtSzZWSmlsRjRVWkFodlVWSmpkVEQ1K200bE5SVmk3dWVyTjdlcU45QlQrTWtLMWRORDVTK2dWSXZNTmxNUjFkSzBSQ0NRPT0K",
+                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713657152"
                                          },
                       "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnlEWVNHZHp0cEdOWFR6Tjcrck1WYzVGbytNK0FFMm1nMEhGNjdtcEVxdngzZyszbDA0bjQ1cE1UUnNUcVQzcVBna0hOa2JrQmNsQ1RRYjVYWG1yUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg3ODAyCWZpbGU6TmV0UHVsc2VfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CjJKa3NjVTlodjZNTGpjVTQxUEZNb2tKVFovbXlLQXduVXRXazZhSWh5OEVnbnpZd2JFeTR3TS9Gd0hmbkRJa29LOWJWRnduRjVrRXFUcU1DMDJEL0RnPT0K",
-                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713631599"
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnpvTTNFWGNGN3lyb2NnVzFqVS9BYzE3STNlcmpvdGs5STYranhpOXZpM210TUptM2V5eWdFcTdhQmtsUXVpaUVrMGpZWWltUURRcHRldk15OEd1OVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg4MzIxCWZpbGU6TmV0UHVsc2VfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43Ci81Vkp5TnlmU1c5bEgrdjBtSzZWSmlsRjRVWkFodlVWSmpkVEQ1K200bE5SVmk3dWVyTjdlcU45QlQrTWtLMWRORDVTK2dWSXZNTmxNUjFkSzBSQ0NRPT0K",
+                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/713657152"
                                               }
                   }
 }
