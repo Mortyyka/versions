@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.9",
-    "notes":  "Refresh dashboard with charcoal surfaces, purple controls, local fonts, and stronger provider/status colors. Compact native tray fits all provider groups without scrolling. Add isolated native dev builds and design verification tools.",
-    "pub_date":  "2026-11-05T18:51:26Z",
+    "version":  "0.1.10",
+    "notes":  "Neko family color palette",
+    "pub_date":  "2026-11-05T19:40:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnhBMWlUZlJvSEdRMi96eVE3YWUrUHRLcHRCN1ZwWHpxTEJudTE5SUVQanNUTEJMd1JZZ2RNOU5IMFNkZUlQYnBTSmxWYm1pWXdJRHlWaEx5Z3hNOFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA0Njc4CWZpbGU6TmV0UHVsc2VfMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45Ckl5RGh0RzNCVkZ2ZWNEanRVYjJHZ1J0eUJFUkhVdmljUlJaeStjM0hoMFFNNG51SGpUa1VPeW9LV0p6WHg4TldXSGVXL0JscEN1UGN3VjUyQW5Ea0FBPT0K",
-                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/714442866"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjF5RmIrZmppQTBiUW0wcFZIcWJxTytCZmI1cnk3M1d6NFZ0UTJjbVkzTnZBSGVkNUt5QVBZQlNlN1EvNS9uZXlmdnAzNXVWQWxTV0VYVDZCcXpYR1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA3NjM1CWZpbGU6TmV0UHVsc2VfMC4xLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTAKUzBURE9McUQrKy9pR05jYktNcytMQ2xBTU1EYUpmaXVVcXBpQ3Y2RWxtMW84cCtmN3NQNWRMRU1yMTJUd1ZFL2pIc2VZaktVeEFxMlV5NDdCTlFZRGc9PQo=",
+                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/714581358"
                                          },
                       "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZnhBMWlUZlJvSEdRMi96eVE3YWUrUHRLcHRCN1ZwWHpxTEJudTE5SUVQanNUTEJMd1JZZ2RNOU5IMFNkZUlQYnBTSmxWYm1pWXdJRHlWaEx5Z3hNOFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA0Njc4CWZpbGU6TmV0UHVsc2VfMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45Ckl5RGh0RzNCVkZ2ZWNEanRVYjJHZ1J0eUJFUkhVdmljUlJaeStjM0hoMFFNNG51SGpUa1VPeW9LV0p6WHg4TldXSGVXL0JscEN1UGN3VjUyQW5Ea0FBPT0K",
-                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/714442866"
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjF5RmIrZmppQTBiUW0wcFZIcWJxTytCZmI1cnk3M1d6NFZ0UTJjbVkzTnZBSGVkNUt5QVBZQlNlN1EvNS9uZXlmdnAzNXVWQWxTV0VYVDZCcXpYR1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA3NjM1CWZpbGU6TmV0UHVsc2VfMC4xLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTAKUzBURE9McUQrKy9pR05jYktNcytMQ2xBTU1EYUpmaXVVcXBpQ3Y2RWxtMW84cCtmN3NQNWRMRU1yMTJUd1ZFL2pIc2VZaktVeEFxMlV5NDdCTlFZRGc9PQo=",
+                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/714581358"
                                               }
                   }
 }
