@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.11",
-    "notes":  "New Servers page: live traffic, CPU/RAM, packet loss and speed tests for your VPSes via the NetPulse Docker agent.",
-    "pub_date":  "2026-11-22T10:30:03Z",
+    "version":  "0.1.12",
+    "notes":  "Servers: speed tests can use Ookla (speedtest.net) or Cloudflare, with parallel streams; results show test server, jitter, loss and a speedtest.net link. Fixes stray text on the server page.",
+    "pub_date":  "2026-11-22T12:56:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjFRcXVWbXNEUkpCZVBva3MrTFBrUjZSbklnL28xWnBlbEs5VjR6Z1dWT1hEUTh3a2hSa0VMQ2xHOG9RcWhxVDN6eXRxQ28yN3NlL2Z4SGpMRGovdXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQzMzk2CWZpbGU6TmV0UHVsc2VfMC4xLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTEKYks2YWlhQ2RpT1QxUDVZUklQVGdTSTY2NTJHcWJPbU0rWmNmdGJ2Mno2MFNzUzhadktGSGdab0hqNVd1NFl6MS9mb29uR1M0QmM1NzBxb3dKOEpyQ0E9PQo=",
-                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/778688420"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjhzdlZ2SjVXeFpyVkNuVm9mdkJsS1hncEc3eDBkRzFLSzg2cVZiSDJ4STQ0Q010aUxKOU82dlpnTjhGMkxpNGZNSGllSkZvd0RqOXAxVDN2K2NScmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUyMTc2CWZpbGU6TmV0UHVsc2VfMC4xLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTIKakNVaHQ2ZW5EdlA3UWk4V2p1K0x6ZmhyWXMxUnJxTFNZVE42d085SEIvRi9xV05iaE9DdXJnSnZXdTd4ZHJuelhYU1pQQ2dTMmdjbHY0TVc3d1hiQ2c9PQo=",
+                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/779073420"
                                          },
                       "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjFRcXVWbXNEUkpCZVBva3MrTFBrUjZSbklnL28xWnBlbEs5VjR6Z1dWT1hEUTh3a2hSa0VMQ2xHOG9RcWhxVDN6eXRxQ28yN3NlL2Z4SGpMRGovdXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQzMzk2CWZpbGU6TmV0UHVsc2VfMC4xLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTEKYks2YWlhQ2RpT1QxUDVZUklQVGdTSTY2NTJHcWJPbU0rWmNmdGJ2Mno2MFNzUzhadktGSGdab0hqNVd1NFl6MS9mb29uR1M0QmM1NzBxb3dKOEpyQ0E9PQo=",
-                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/778688420"
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjhzdlZ2SjVXeFpyVkNuVm9mdkJsS1hncEc3eDBkRzFLSzg2cVZiSDJ4STQ0Q010aUxKOU82dlpnTjhGMkxpNGZNSGllSkZvd0RqOXAxVDN2K2NScmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUyMTc2CWZpbGU6TmV0UHVsc2VfMC4xLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTIKakNVaHQ2ZW5EdlA3UWk4V2p1K0x6ZmhyWXMxUnJxTFNZVE42d085SEIvRi9xV05iaE9DdXJnSnZXdTd4ZHJuelhYU1pQQ2dTMmdjbHY0TVc3d1hiQ2c9PQo=",
+                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/779073420"
                                               }
                   }
 }
