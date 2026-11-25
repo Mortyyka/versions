@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.13",
-    "notes":  "Servers: set the agent\u0027s ping timing from the app (packets per round, interval, spacing, timeout); ping-style totals (transmitted/received, min/avg/max/mdev); every individual packet for 48 h with a scatter chart and filterable list; list of minutes with loss or spikes. Charts: drag to zoom, click legends to hide lines, log scale, min-max shading and loss bars. Needs agent v0.3.",
-    "pub_date":  "2026-11-23T12:38:21Z",
+    "version":  "0.1.14",
+    "notes":  "- View up to 30 days of ping and loss history, or select custom dates in Server and Target details.\n- Browse hourly server results by date, probe direction, and destination.\n- Load charts and individual packets as they come into view to reduce dashboard memory use.\n- Include late-arriving probes when rebuilding minute and hour summaries.\n",
+    "pub_date":  "2026-11-25T10:21:55Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjV6RUEvTzh1a1ZDeEpwMUFtaVgrUHlyQnYrREltWlVtcFFGbDF5TzB5VnltQXhUNWVFQVV2TTJDVG54NFpZVXprVTNjU1kvS3JNUnBZU2FWbUpIZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDM3NDk1CWZpbGU6TmV0UHVsc2VfMC4xLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTMKaDhTc3I3RHptOU9BbU1MUDArcGFWbXpMR1Uyd0V6YzFuYjh2VXVvNUVLbnYyUEVXbjVod29xWGZaMCtYMG5CU3h3dGJqOHduL09DK0lxN0J3TXgxQWc9PQo=",
-                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/782892377"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjVaU2Y4YTgySCtoV0FDOWJySFNFUWRrTGFzMmVRYzhlMzlGdTJxUWJma0h4ZHQva2tNT1k3aVpGY1lwSVdKQVorenJFcHk4cnFNNkFCNkxtaFI3a1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjAxOTYwCWZpbGU6TmV0UHVsc2VfMC4xLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTQKaDhwVmRkL0pnQWZiWjUzczZQMEQwRkNCRzMxK0lObGFhTTgxU2FOUXBOd1NZRC9peVVDZmppSGYrK1JGZEREMlBaR0ZPUUwzUysrRTBUV2JENlpsQlE9PQo=",
+                                             "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/791064849"
                                          },
                       "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjV6RUEvTzh1a1ZDeEpwMUFtaVgrUHlyQnYrREltWlVtcFFGbDF5TzB5VnltQXhUNWVFQVV2TTJDVG54NFpZVXprVTNjU1kvS3JNUnBZU2FWbUpIZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDM3NDk1CWZpbGU6TmV0UHVsc2VfMC4xLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTMKaDhTc3I3RHptOU9BbU1MUDArcGFWbXpMR1Uyd0V6YzFuYjh2VXVvNUVLbnYyUEVXbjVod29xWGZaMCtYMG5CU3h3dGJqOHduL09DK0lxN0J3TXgxQWc9PQo=",
-                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/782892377"
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUHpnVFhLV3pQZjVaU2Y4YTgySCtoV0FDOWJySFNFUWRrTGFzMmVRYzhlMzlGdTJxUWJma0h4ZHQva2tNT1k3aVpGY1lwSVdKQVorenJFcHk4cnFNNkFCNkxtaFI3a1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjAxOTYwCWZpbGU6TmV0UHVsc2VfMC4xLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTQKaDhwVmRkL0pnQWZiWjUzczZQMEQwRkNCRzMxK0lObGFhTTgxU2FOUXBOd1NZRC9peVVDZmppSGYrK1JGZEREMlBaR0ZPUUwzUysrRTBUV2JENlpsQlE9PQo=",
+                                                  "url":  "https://api.github.com/repos/Mortyyka/netpulse-dist/releases/assets/791064849"
                                               }
                   }
 }
